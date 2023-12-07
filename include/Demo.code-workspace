@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"name": "esp8266",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"cmath": "cpp",
+			"_az_cfg.h": "c",
+			"az_iot_common_internal.h": "c",
+			"az_version.h": "c",
+			"az_span.h": "c",
+			"chrono": "cpp",
+			"sstream": "cpp",
+			"functional": "cpp"
+		},
+		"editor.formatOnSave": false,
+		"javascript.format.insertSpaceAfterOpeningAndBeforeClosingEmptyBraces": false,
+		"javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": false,
+		"typescript.format.insertSpaceAfterOpeningAndBeforeClosingEmptyBraces": false,
+		"typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": false,
+		"C_Cpp.vcFormat.newLine.beforeOpenBrace.block": "sameLine",
+		"C_Cpp.vcFormat.newLine.beforeOpenBrace.function": "sameLine",
+		"C_Cpp.vcFormat.newLine.beforeOpenBrace.lambda": "sameLine",
+		"C_Cpp.vcFormat.newLine.beforeOpenBrace.namespace": "sameLine",
+		"C_Cpp.vcFormat.newLine.beforeOpenBrace.type": "sameLine"
+	}
+}
